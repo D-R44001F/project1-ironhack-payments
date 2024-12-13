@@ -51,11 +51,17 @@ Missing Values in Each Column:
 | cash_request_created_at | 0 |
 | cash_request_amount | 0 |
 
+```console
 Number of Columns with Missing Values: 4 \
 All Columns Have Missing Values: False \
-Total Missing Values in the DataFrame: 50969 \
+Total Missing Values in the DataFrame: 50969
+```
 
-## Relations and Data Problems Summary
+### Check Relation Between Datasets
+
+- Identify possible relations between "cash request" & "fees"
+- Check null and empty values
+- Check duplicate values (groups)
 
 ```python
 # Merge to relate the Datasets
@@ -80,9 +86,11 @@ for key, value in relationship_summary.items():
     print(f"  {key}: {value}")
 ```
 
+```console
 RELATIONS AND DATA PROBLEMS SUMMARY: \
 Total fees records: 21061 \
 Total cash requests records: 23970 \
 Matched fees with cash requests: 21057 \
 Unmatched fees (missing cash requests): 4 \
 Duplicate cash_request_id in fees: 8127
+```
