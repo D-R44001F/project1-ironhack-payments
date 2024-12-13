@@ -30,6 +30,7 @@ print("\nTotal Missing Values in the DataFrame:", total_missing_values)
 ```
 
 Output:
+Missing Values in Each Column:
 | Column                   | Missing Values |
 |--------------------------|----------------|
 | fee_id                   | 0              |
@@ -52,5 +53,4 @@ Output:
 
 Number of Columns with Missing Values: 4
 All Columns Have Missing Values: False
-
 Total Missing Values in the DataFrame: 50969
