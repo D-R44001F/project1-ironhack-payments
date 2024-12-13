@@ -33,25 +33,28 @@ print("\nTotal Missing Values in the DataFrame:", total_missing_values)
 ```console
 Output:
 Missing Values in Each Column:
-| Column | Missing Values |
-|--------------------------|----------------|
-| fee_id | 0 |
-| cash_request_id | 0 |
-| type | 0 |
-| status | 0 |
-| category | 18,861 |
-| total_amount | 0 |
-| reason | 0 |
-| fee_created_at | 0 |
-| updated_at | 0 |
-| paid_at | 5,526 |
-| from_date | 13,291 |
-| to_date | 13,291 |
-| charge_moment | 0 |
-| cash_request_id.1 | 0 |
-| cash_request_created_at | 0 |
-| cash_request_amount | 0 |
+```
 
+| Column                  | Missing Values |
+| ----------------------- | -------------- |
+| fee_id                  | 0              |
+| cash_request_id         | 0              |
+| type                    | 0              |
+| status                  | 0              |
+| category                | 18,861         |
+| total_amount            | 0              |
+| reason                  | 0              |
+| fee_created_at          | 0              |
+| updated_at              | 0              |
+| paid_at                 | 5,526          |
+| from_date               | 13,291         |
+| to_date                 | 13,291         |
+| charge_moment           | 0              |
+| cash_request_id.1       | 0              |
+| cash_request_created_at | 0              |
+| cash_request_amount     | 0              |
+
+```console
 Number of Columns with Missing Values: 4
 All Columns Have Missing Values: False
 Total Missing Values in the DataFrame: 50969
