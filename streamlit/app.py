@@ -6,6 +6,7 @@ import data
 import explore
 import clean
 import analyze
+import presentation
 
 # Dashboard Configuration
 st.set_page_config(
@@ -26,7 +27,8 @@ app.add_app("About", about.app)
 app.add_app("Explore Process", explore.app)
 app.add_app("Clean Process", clean.app)
 app.add_app("Vizualize & Analyze Process", analyze.app)
-app.add_app("Demo", data.app)
+app.add_app("Presentation", presentation.app)
+# app.add_app("Demo", data.app)
 
 # Run the Webapp
 app.run()

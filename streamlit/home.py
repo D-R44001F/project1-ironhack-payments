@@ -1,8 +1,8 @@
 import streamlit as st
 
 def app():
-    st.markdown("##Business Challenge: Cohort Analysis for Ironhack Payments (Project 1)")
-
+    st.markdown("## Business Challenge: Cohort Analysis for Ironhack Payments (Project 1)")
+    st.image('./images/ironhack_puerto_rico_logo.jpeg')
     st.markdown("### Introduction")
 
     st.markdown("IronHack Payments, a forward-thinking financial services company, has been offering innovative cash advance solutions since its inception in 2020. With a commitment to providing money advancements for free and transparent pricing, IronHack Payments has garnered a substantial user base. As part of their continuous effort to enhance their services and understand user behavior, IronHack Payments has commissioned a cohort analysis project.")
