@@ -30,8 +30,8 @@ print("All Columns Have Missing Values:", all_columns_missing)
 print("\nTotal Missing Values in the DataFrame:", total_missing_values)
 ```
 
-Output:
-Missing Values in Each Column: \
+Output:\
+Missing Values in Each Column:
 | Column | Missing Values |
 |--------------------------|----------------|
 | fee_id | 0 |
@@ -50,7 +50,7 @@ Missing Values in Each Column: \
 | cash_request_id.1 | 0 |
 | cash_request_created_at | 0 |
 | cash_request_amount | 0 |
-\
+
 Number of Columns with Missing Values: 4 \
 All Columns Have Missing Values: False \
 Total Missing Values in the DataFrame: 50969 \
@@ -85,4 +85,4 @@ Total fees records: 21061 \
 Total cash requests records: 23970 \
 Matched fees with cash requests: 21057 \
 Unmatched fees (missing cash requests): 4 \
-Duplicate cash_request_id in fees: 8127 \
+Duplicate cash_request_id in fees: 8127
