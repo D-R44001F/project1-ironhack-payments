@@ -6,6 +6,8 @@ Rows in fees after excluding non-matching: `21057` from `21060` in the "Fees Dat
 
 ## Descriptive Statistics
 
+<img src="ruta/a/imagen.jpg" alt="Texto alternativo" style="width: 50%; height: auto;">
+
 ### Missing Values Summary
 
 ![Missing Values Summary](missing-values.png)
