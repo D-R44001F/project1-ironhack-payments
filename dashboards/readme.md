@@ -10,7 +10,7 @@ This project focuses on data analysis and interactive visualization through a da
 
 Below is a preview of the developed dashboard:
 
-![Dashboard Preview](dashboard-preview.png)
+![Dashboard Preview](./images/dashboard-preview.png)
 
 ---
 
