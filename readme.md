@@ -51,7 +51,7 @@ Assess the quality of the dataset by identifying missing values, data inconsiste
 
 2. **Tableau Dashboard**: Publish a dashboard in Tableau Public regarding your analysis.
 
-- [Dashboard Preview](./dashboards/readme.md)
+- [Dashboard Preview, Download and Web Access](./dashboards/readme.md)
 
 3. **Exploratory Data Analysis Report:** Prepare a report summarizing the findings from your exploratory data analysis. Include visualizations and insights that help understand the dataset.
 
@@ -76,8 +76,8 @@ Assess the quality of the dataset by identifying missing values, data inconsiste
 
 2. **StreamLit**: Read about the StreamLit package and create a StreamLit app about this data (you can leverage on ideias from your dashboard)
 
-- [View StreamList WebApp](http://dsmlbootcamp.org/)
-- [View StreamList WebApp Codes](./streamlit/)
+- [View StreamLit WebApp - Analysis and Dashboard](http://dsmlbootcamp.org/)
+- [View StreamLit WebApp Codes](./streamlit/)
 
 3. **OPP vs Function**: Take your code and replicate it using an oposite strategy than you have done.
 
