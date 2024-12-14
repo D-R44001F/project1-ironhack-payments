@@ -76,7 +76,8 @@ Assess the quality of the dataset by identifying missing values, data inconsiste
 
 2. **StreamLit**: Read about the StreamLit package and create a StreamLit app about this data (you can leverage on ideias from your dashboard)
 
-- [View StreamList App](http://dsmlbootcamp.org/)
+- [View StreamList WebApp](http://dsmlbootcamp.org/)
+- [View StreamList WebApp Codes](./streamlit/)
 
 3. **OPP vs Function**: Take your code and replicate it using an oposite strategy than you have done.
 
