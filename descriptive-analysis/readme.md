@@ -8,7 +8,7 @@ Rows in fees after excluding non-matching: `21057` from `21060` in the "Fees Dat
 
 ### Missing Values Summary
 
-![Missing Values Summary](missing-values.png){width=150px height=70px}
+![Missing Values Summary](missing-values.png)
 
 ### Amount Request Distribution
 
