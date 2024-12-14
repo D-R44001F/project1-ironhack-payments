@@ -66,7 +66,8 @@ Assess the quality of the dataset by identifying missing values, data inconsiste
 
 5. **Short Presentation:** Create a concise presentation (maximum of 4 slides) summarizing your findings from the cohort analysis and key insights gained from EDA and data quality analysis. This presentation should be suitable for sharing with the IronHack Payments team.
 
-- [View Presentation Preview](./IronHack-Bootcamp-Project-1.pdf)
+- [View Presentation](./IronHack-Bootcamp-Project-1.pdf)
+- [Download Presentation](./presentation.pptx)
 
 ### Bonus:
 
