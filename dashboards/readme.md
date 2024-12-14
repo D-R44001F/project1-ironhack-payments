@@ -29,8 +29,6 @@ Explore the dashboard directly on Tableau Public using the following link:
 
 [View Dashboard on Tableau Public](https://public.tableau.com/views/DSMLBootcampProjectI-DemoData/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-<a href="https://public.tableau.com/views/DSMLBootcampProjectI-DemoData/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank">View Dashboard on Tableau Public</a>
-
 ---
 
 ## Conclusion
