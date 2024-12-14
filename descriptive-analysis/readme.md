@@ -8,21 +8,21 @@ Rows in fees after excluding non-matching: `21057` from `21060` in the "Fees Dat
 
 ### Missing Values Summary
 
-![0](descriptive-analysis/missing-values.png)
+![Missing Values Summary](missing-values.png)
 
 ### Amount Request Distribution
 
-![0](descriptive-analysis/amount-request-distribution.png)
+![Amount Request Distribution](amount-request-distribution.png)
 
 ### Rows per Cohort
 
-![0](descriptive-analysis/frequency-by-cohort.png)
+![Rows per Cohort](frequency-by-cohort.png)
 
 ### Incident Rate Analysis
 
-![0](descriptive-analysis/incident-reate-by-cohort.png)
+![Incident Rate Analysis](incident-reate-by-cohort.png)
 
-![0](descriptive-analysis/cohort-trends.png)
+![Cohort Trends](cohort-trends.png)
 
 ## Conclusion on First Data Analysis
 
