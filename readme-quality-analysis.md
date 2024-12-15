@@ -2,8 +2,7 @@
 
 ## Data Quality Analysis
 
-Now that the relevant data fields have been found and sorted, we need to validated the quality of the data to ensure accuracy on the results. We star this by checking for empty values or missing
-data.
+Now that the relevant data fields have been found and sorted, we need to validated the quality of the data to ensure accuracy on the results. We star this by checking for empty values or missing data.
 
 To achieve this, we use the following code on the consolidated data:
 
@@ -97,3 +96,9 @@ Matched fees with cash requests: 21057
 Unmatched fees (missing cash requests): 4
 Duplicate cash_request_id in fees: 8127
 ```
+
+## DataSets Description and Detail Analysis
+
+This documentation presents only a summary of the data sets. To view more information about the data sets and their details visit the next link:
+
+[View DataSets Details Documentation](./project_datasets/)
