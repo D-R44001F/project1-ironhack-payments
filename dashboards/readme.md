@@ -18,8 +18,8 @@ Below is a preview of the developed dashboard:
 
 You can download the dashboard file in Tableau format (.twbx) using the following link:
 
-- [Download Dashboard - version #1](Dashboard.twbx)
-- [Download Dashboard - version #2](Book1.twbx)
+- [Download Dashboard](Dashboard.twbx)
+- [Download Dashboard (others version worked)](Book1.twbx)
 
 ---
 

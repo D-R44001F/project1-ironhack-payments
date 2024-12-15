@@ -51,7 +51,7 @@ Assess the quality of the dataset by identifying missing values, data inconsiste
 
 2. **Tableau Dashboard**: Publish a dashboard in Tableau Public regarding your analysis.
 
-- [Dashboard Preview, Download and Web Access](./dashboards/readme.md)
+- [Dashboard Details and Preview](./dashboards/readme.md)
 - [Dashboard Download - Tableau Desktop is Need](./dashboards/Dashboard.twbx)
 - [View Dashboard on Tableau Public](https://public.tableau.com/views/DSMLBootcampProjectI-DemoData/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
