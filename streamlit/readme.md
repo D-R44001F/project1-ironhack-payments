@@ -63,17 +63,13 @@ For this project, Streamlit allowed us to:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo-name.git
+   git clone https://github.com/D-R44001F/project1-ironhack-payments.git
    ```
 2. Navigate to the project folder:
    ```bash
-   cd your-repo-name
+   cd project1-ironhack-payments/streamlit/
    ```
-3. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. Run the application:
+3. Run the application:
    ```bash
    streamlit run app.py
    ```
