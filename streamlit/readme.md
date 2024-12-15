@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the files for a Data Analysis Dashboard created using **Streamlit**. The WebApp is hosted on the server and accessible at [http://dsmlbootcamp.org/](http://dsmlbootcamp.org/). The dashboard showcases the study, analysis, and visualization of data as part of a data analysis project. It highlights the processes of **ETL (Extract, Transform, Load)**, **EDA (Exploratory Data Analysis)**, and **Data Visualization** using a Tableau Dashboard.
+This folder contains the files for a Data Analysis Dashboard created using **Streamlit**. The WebApp is hosted on the server and accessible at [http://dsmlbootcamp.org/](http://dsmlbootcamp.org/). The dashboard showcases the study, analysis, and visualization of data as part of a data analysis project. It highlights the processes of **ETL (Extract, Transform, Load)**, **EDA (Exploratory Data Analysis)**, and **Data Visualization** using a Tableau Dashboard.
 
 ---
 
