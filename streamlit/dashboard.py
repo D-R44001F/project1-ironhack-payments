@@ -9,7 +9,10 @@ def app():
         # Goto Tableau
         st.markdown(
             f'<a href="https://public.tableau.com/views/DSMLBootcampProjectI-DemoData/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">'
-            f'<button style="background-color:LightBlue; color:black; border-radius:5px; padding:10px 20px;">View in Tableau Public</button>'
+            f'<button style="background-color:LightBlue; color:black; border-radius:5px; padding:5px 10px;">View in Tableau Public</button>'
+            f'</a>&nbsp;&nbsp;'
+            f'<a href="https://github.com/D-R44001F/project1-ironhack-payments/blob/main/dashboards/" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">'
+            f'<button style="background-color:transparent; border-radius:5px; padding:5px 10px;">Download the Dashboard</button>'
             f'</a>',
             unsafe_allow_html=True,
         )
@@ -23,4 +26,6 @@ def app():
         st.error("PDF File Not Found.")
     except Exception as e:
         st.error(f"Error: {e}")
+       
+
     
